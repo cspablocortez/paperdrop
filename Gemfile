@@ -1,3 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-require "sinatra"
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'pg'
+gem 'activerecord'
+gem 'sinatra-activerecord'
+gem 'rake'

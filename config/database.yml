@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  database: notes_development
+  pool: 5
+  timeout: 5000
