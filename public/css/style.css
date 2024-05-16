@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    justify-content: end;
+}
+
+ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-inline-end: 2rem;
+}
+
+ul li a {
+    text-decoration: none;
+}
